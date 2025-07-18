@@ -1,5 +1,5 @@
 <!-- <h1 align="center">Hi 👋, I'm Hao Yang</h1> -->
-<h3 align="center">👋 Hi there! I'm Hao Yang, a passionate junior Computer Science student<br>on a mission to turn ideas into code.</h3>
+<h3 align="center">👋 Hi there! I'm Hao Yang, a passionate Computer Science student<br>on a mission to turn ideas into code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haoyanghy&label=Profile%20views&color=0e75b6&style=flat" alt="haoyanghy" /> </p>
 
